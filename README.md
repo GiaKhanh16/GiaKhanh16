@@ -3,7 +3,6 @@
 Check out my best apps:
 
 1. MyTennisApp - Appstore
-- https://apps.apple.com/us/app/mytennisapp/id6741842477?platform=iphone
 - https://github.com/GiaKhanh16/MyTennisApp
 
 2. TennisExpense - about to be on appstore
