@@ -1,9 +1,9 @@
 # Welcome to My GitHub!
 
-Check out my best apps, it's on the appstore:
+Check out my best apps:
 
-1. MyTennisApp
-2. TennisExpense
+1. MyTennisApp - appstore
+2. TennisExpense - about to be on appstore
 3. Bounce - Online tennis courts bookings
 4. Tennis Vision - Computer Vision for tennis stats
 
