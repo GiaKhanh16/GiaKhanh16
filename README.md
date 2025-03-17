@@ -26,5 +26,5 @@ Check out my best apps:
 
 
 <div style="text-align: center;">
-![Image](https://github.com/user-attachments/assets/3ba49b3f-d445-4f18-90ba-870911a9f059)
+<img src="https://github.com/user-attachments/assets/3ba49b3f-d445-4f18-90ba-870911a9f059"/>
 </div>
