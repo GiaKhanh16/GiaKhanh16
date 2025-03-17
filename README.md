@@ -1,13 +1,13 @@
 # Welcome to My GitHub!
 
+Check out my best apps, it's on the appstore:
 
-Khanh Nguyen, can tho vietnam, houston tx 
+1. MyTennisApp
+2. TennisExpense
+3. Bounce - Online tennis courts bookings
+4. Tennis Vision - Computer Vision for tennis stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Animation" width="600" height="300"/>
-</div>
 
 ## 🚀 Tech Stack and Skills
 
