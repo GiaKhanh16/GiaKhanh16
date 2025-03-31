@@ -6,8 +6,8 @@ Check out my best apps:
 - https://github.com/GiaKhanh16/MyTennisApp
 
 2. TennisExpense - about to be on appstore
-3. Bounce - Online tennis courts bookings
-4. Tennis Vision - Computer Vision for tennis stats
+3. CourtBooker - Online tennis courts bookings
+4. ClubManaged - Club management application
 
 
 ## Programming Languages:
