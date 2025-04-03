@@ -2,11 +2,11 @@
 
 Check out my best apps:
 
-1. MyTennisApp - Appstore
+1. MyTennisApp - App store
 - https://github.com/GiaKhanh16/MyTennisApp
 - https://apps.apple.com/us/app/mytennisapp/id6741842477?platform=iphone
 
-2. TennisExpense - about to be on appstore
+2. TennisNumbers - App Store
 - https://github.com/GiaKhanh16/TennisNumbers
 - https://apps.apple.com/us/app/tennisnumbers/id6743880644
 
