@@ -10,11 +10,6 @@ Check out my best apps:
 - https://github.com/GiaKhanh16/TennisNumbers
 - https://apps.apple.com/us/app/tennisnumbers/id6743880644
 
-4. CourtBooker - Online tennis courts bookings
-- https://github.com/GiaKhanh16/CourtBooker
-6. ClubManaged - Club management application
-
-
 ## Programming Languages:
 
 
