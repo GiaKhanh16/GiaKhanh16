@@ -4,15 +4,15 @@ Check out my apps:
 
 1. TennisNumbers - App Store
 - https://github.com/GiaKhanh16/TennisNumbers
-- https://apps.apple.com/us/app/tennisnumbers/id6743880644
+- https://apps.apple.com/us/app/tennisnumbers/id6743880644 - Deprecated
 
 2. SwiftClasses - App Store
 - https://github.com/GiaKhanh16/SwiftClasses
-- https://apps.apple.com/us/app/swiftclasses/id6753855564
+- https://apps.apple.com/us/app/swiftclasses/id6753855564 - Deprecated
 
 3. MyTennisApp - App store
 - https://github.com/GiaKhanh16/MyTennisApp
-- https://apps.apple.com/us/app/mytennisapp/id6741842477?platform=iphone
+- https://apps.apple.com/us/app/mytennisapp/id6741842477?platform=iphone - Deprecated
 
 
 
