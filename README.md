@@ -1,35 +1,9 @@
 # Welcome to My GitHub!
 
-Check out my apps:
+Check out my repos:
 
-1. TennisNumbers - App Store
-- https://github.com/GiaKhanh16/TennisNumbers
-- https://apps.apple.com/us/app/tennisnumbers/id6743880644 - Deprecated
+1. SwiftUIs - Collection of custom beautifully UIs
 
-2. SwiftClasses - App Store
-- https://github.com/GiaKhanh16/SwiftClasses
-- https://apps.apple.com/us/app/swiftclasses/id6753855564 - Deprecated
-
-3. MyTennisApp - App store
-- https://github.com/GiaKhanh16/MyTennisApp
-- https://apps.apple.com/us/app/mytennisapp/id6741842477?platform=iphone - Deprecated
-
-
-
-## Programming Languages:
-
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![SwiftUI](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-
-### Backend Development:
-
-
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 
 
