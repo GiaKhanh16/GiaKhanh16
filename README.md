@@ -1,6 +1,5 @@
-# Welcome to My GitHub!
 
-Follow my Swift journey here:
+# Follow my Swift journey here:
 https://github.com/GiaKhanh16/SwiftUIs
 
 # Personal site:
